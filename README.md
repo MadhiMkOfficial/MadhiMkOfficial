@@ -2,20 +2,6 @@
 
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Madhi+Mk!;Learning+Web+Development...;" style="max-width: 100%;">
 
-I'm a passionate self-learner and Front-end Web Developer 
-
-- 👯 I’m looking to collaborate with any **Web Devlopment projects.** 
-
-- 📫 How to reach me **m.k.madhi95@gmail.com** <br/>
-
-
-👯 I’m looking to collaborate on ..
-
-<ul>
-  <li>Open source Projects</li>
-  <li>Front-end Development</li>
-</ul>
-
 <br/>
  🚀 Languages and Tools:
 <p align="left"> 
