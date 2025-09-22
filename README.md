@@ -14,8 +14,8 @@
 
 ## 🎯 Level 4+ Full-Stack Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=madhimurugan&style=for-the-badge&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/madhimurugan?style=for-the-badge&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=MadhiMkOfficial&style=for-the-badge&color=blueviolet)
+![GitHub Followers](https://img.shields.io/github/followers/MadhiMkOfficial?style=for-the-badge&color=green)
 ![Years of Experience](https://img.shields.io/badge/Experience-4%2B%20Years-orange?style=for-the-badge&logo=experience&logoColor=white)
 
 </div>
