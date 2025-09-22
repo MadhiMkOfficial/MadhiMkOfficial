@@ -30,10 +30,10 @@
 
 |      **Frontend**       |      **Backend**      |     **Web3**      |       **Tools**       |
 | :---------------------: | :-------------------: | :---------------: | :-------------------: |
-|   ⭐⭐⭐⭐⭐ React.js   |  ⭐⭐⭐⭐⭐ Node.js   |    ⭐⭐⭐⭐⭐ Git     |
+|   ⭐⭐⭐⭐⭐ React.js   |  ⭐⭐⭐⭐⭐ Node.js   |    | ⭐⭐⭐⭐⭐ Git     |
 |   ⭐⭐⭐⭐⭐ Next.js    | ⭐⭐⭐⭐⭐ Express.js | ⭐⭐⭐⭐ Web3.js  | ⭐⭐⭐⭐⭐ TypeScript |
-|   ⭐⭐⭐⭐⭐ Angular    |   ⭐⭐⭐⭐ MongoDB    |  ⭐⭐⭐ Ethereum  |    ⭐⭐⭐⭐ Jest    |
-| ⭐⭐⭐⭐⭐ Tailwind CSS |  ⭐⭐⭐⭐ PostgreSQL  |   ⭐⭐⭐⭐⭐ ESLint   |
+|   ⭐⭐⭐⭐⭐ Angular    |   ⭐⭐ MongoDB    |  ⭐⭐⭐ Ethereum  |    ⭐⭐⭐⭐ Jest    |
+| ⭐⭐⭐⭐⭐ Tailwind CSS |  ⭐⭐⭐⭐ PostgreSQL  |   | ⭐⭐⭐⭐⭐ ESLint   |
 
 </div>
 
@@ -115,10 +115,10 @@
 
 I'm always looking for fellow developers to collaborate on epic projects!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhimurugan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhimurugan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://madhimurugan.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhimurugan@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhimk-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhiMkOfficial)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://madhimurugan.dev](https://github.com/MadhiMkOfficial))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhimkdev@gmail.com)
 
 ### 🌟 Quest Board
 
