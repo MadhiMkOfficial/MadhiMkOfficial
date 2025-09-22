@@ -30,10 +30,10 @@
 
 |      **Frontend**       |      **Backend**      |     **Web3**      |       **Tools**       |
 | :---------------------: | :-------------------: | :---------------: | :-------------------: |
-|   ⭐⭐⭐⭐⭐ React.js   |  ⭐⭐⭐⭐⭐ Node.js   |    | ⭐⭐⭐⭐⭐ Git     |
-|   ⭐⭐⭐⭐⭐ Next.js    | ⭐⭐⭐⭐⭐ Express.js | ⭐⭐⭐⭐ Web3.js  | ⭐⭐⭐⭐⭐ TypeScript |
+|   ⭐⭐⭐⭐⭐ React.js   |  ⭐⭐⭐ Node.js   |    | ⭐⭐⭐⭐⭐ Git     |
+|   ⭐⭐⭐⭐⭐ Next.js    | ⭐⭐ Express.js | ⭐⭐ Web3.js  | ⭐⭐⭐⭐⭐ TypeScript |
 |   ⭐⭐⭐⭐⭐ Angular    |   ⭐⭐ MongoDB    |  ⭐⭐⭐ Ethereum  |    ⭐⭐⭐⭐ Jest    |
-| ⭐⭐⭐⭐⭐ Tailwind CSS |  ⭐⭐⭐⭐ PostgreSQL  |   | ⭐⭐⭐⭐⭐ ESLint   |
+| ⭐⭐⭐⭐⭐ Tailwind CSS |  ⭐⭐ PostgreSQL  |   | ⭐⭐⭐⭐⭐ ESLint   |
 
 </div>
 
