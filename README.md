@@ -71,15 +71,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadhiMkOfficial&hide_border=true)
-
-</div>
 
 ---
 
